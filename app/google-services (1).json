@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782175458011",
+    "project_id": "rma18656",
+    "storage_bucket": "rma18656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782175458011:android:c37a6f8e402444f13af2fe",
+        "android_client_info": {
+          "package_name": "elfak.mosis.projekat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHfuSde21qddgYl7A27Q0SospDp2RJjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
